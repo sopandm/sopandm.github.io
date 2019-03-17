@@ -1,9 +1,9 @@
 {
 "companyName": "Anna Sopova",
 "productName": "FoRest",
-"dataUrl": "Forest.data.unityweb",
-"wasmCodeUrl": "Forest.wasm.code.unityweb",
-"wasmFrameworkUrl": "Forest.wasm.framework.unityweb",
+"dataUrl": "Forest.data.unityweb.gz",
+"wasmCodeUrl": "Forest.wasm.code.unityweb.gz",
+"wasmFrameworkUrl": "Forest.wasm.framework.unityweb.gz",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
